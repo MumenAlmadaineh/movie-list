@@ -1,0 +1,31 @@
+header{
+    background-color:  #39A2DB;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+#tableSection{
+    float: right;
+    margin: -177px 250px;
+}
+
+#fromSection{
+    float: left;
+}
+
+form{
+    margin: 100px;
+}
+
+fieldset {
+    border: 2px dashed gray; width: 10px
+  }
+  
+  legend {
+
+  }
+  
+  input {
+    margin: 5px;
+  }
